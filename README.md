@@ -29,14 +29,18 @@ Here’s a snapshot of the LinkedIn Post Generator in action:
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 
 ```text
 LinkedIn-Post-Generator/
 │
+├─ main1.py            # Entry point for running the project
 ├─ llm_helper.py       # Handles LLM API integration
-├─ main.py             # Entry point for generating posts
+├─ post_generator.py   # Core logic for generating LinkedIn posts
+├─ few_shot.py         # Contains few-shot learning examples/prompts
+├─ preprocess.py       # Preprocessing raw data before generation
 ├─ processed_posts/    # Folder to store processed posts
 ├─ raw_posts.json      # Sample input data
 ├─ .env                # API keys and environment variables
 └─ README.md           # Project documentation
+
