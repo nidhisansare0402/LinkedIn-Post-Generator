@@ -12,6 +12,9 @@ A Python project that generates professional LinkedIn posts in Minglish, Hinglis
 - Supports JSON-based input/output for post data.
 
 ---
+<img width="940" height="453" alt="image" src="https://github.com/user-attachments/assets/a774d9d4-a559-4765-9f9c-82500166d64a" />
+
+---
 
 ## Tech Stack
 
