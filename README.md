@@ -26,11 +26,12 @@ A Python project that generates professional LinkedIn posts in Minglish, Hinglis
 
 ## Project Structure
 
+```text
 LinkedIn-Post-Generator/
 │
-├─ llm_helper.py # Handles LLM API integration
-├─ main.py # Entry point for generating posts
-├─ processed_posts/ # Folder to store processed posts
-├─ raw_posts.json # Sample input data
-├─ .env # API keys and environment variables
-└─ README.md # Project documentation
+├─ llm_helper.py       # Handles LLM API integration
+├─ main.py             # Entry point for generating posts
+├─ processed_posts/    # Folder to store processed posts
+├─ raw_posts.json      # Sample input data
+├─ .env                # API keys and environment variables
+└─ README.md           # Project documentation
